@@ -1,13 +1,14 @@
-BIP: ?<br>
-Title: The Cat: Non-Monetary UTXO Cleanup<br>
-Author: Claire Ostrom <ostromclairehome@gmail.com><br>
-Status: Draft<br>
-Type: Standards Track<br>
-Layer: Consensus (soft fork)<br>
-Created: 2025-12-06<br>
-License: CC0-1.0<br>
+```text
+BIP: ?
+Title: The Cat: Non-Monetary UTXO Cleanup
+Author: Claire Ostrom <ostromclairehome@gmail.com>
+Status: Draft
+Type: Standards Track
+Layer: Consensus (soft fork)
+Created: 2025-12-06
+License: CC0-1.0
 Discussion: https://github.com/ostromcode/TheCat
-
+```
 ---
 
 # The Cat: Non-Monetary UTXO Cleanup
