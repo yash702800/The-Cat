@@ -68,4 +68,4 @@ This chart shows how many inscriptions are packed into each UTXO (1, 2–5, 6–
 …, 1k+), on a log scale. It highlights the existence of extremely dense carrier
 UTXOs, including ones with hundreds of thousands of inscriptions.
 
-![Inscription Density per UTXO]()
+![Inscription Density per UTXO](./inscriptions-per-utxo.png)
