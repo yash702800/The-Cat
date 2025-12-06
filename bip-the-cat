@@ -1,6 +1,18 @@
-# Subject: The Cat, BIP discussion.
+BIP: ?
+Title: The Cat: Non-Monetary UTXO Cleanup and Spam Disincentive
+Author: Claire Ostrom <ostromclairehome@gmail.com>
+Status: Draft
+Type: Standards Track
+Layer: Consensus (soft fork)
+Created: 2025-12-06
+License: CC0-1.0
+Discussion: https://github.com/ostromcode/TheCat
 
-Dear Bitcoin-dev,
+---
+
+# The Cat: Non-Monetary UTXO Cleanup and Spam Disincentive
+
+This text was originally drafted as an email to the Bitcoin-dev mailing list (see README).
 
 Given recent discussions surrounding the malincentives of spam and the perceived futility in addressing these issues, I felt it necessary to propose a working solution. For those interested, I have written a brief history of the problem; please skip to “The BIP” below if you are only interested in the proposal.
 
@@ -398,3 +410,10 @@ A UTXO can only be classified as an NMU if all of the following are true:
 Anything at or above VALUE_MAX_NMU is always treated as a normal monetary output, regardless of what Ord says about the sats inside it.
 
 In practice, if you once interacted with Ord and those “inscribed sats” now live inside a normal-sized wallet UTXO (1,000 sats or more), this proposal does not touch that UTXO at all. It remains fully spendable under the ordinary rules. The only “inscribed sats” that get Catted are those deliberately parked in tiny dust outputs below the VALUE_MAX_NMU threshold, and that Ord (or Stamps) is already treating as non-monetary artifacts at H_snap. Those dust UTXOs are precisely the objects this proposal is targeting to fence off from the monetary UTXO set.
+
+---
+
+## License
+
+This document is licensed under Creative Commons CC0 1.0 Universal (CC0-1.0).
+
