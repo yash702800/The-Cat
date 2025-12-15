@@ -52,23 +52,13 @@ illustrate the scale and structure of inscription-related UTXOs.
 
 ---
 
-## Process note: mailing list moderation
+### Process note: mailing list moderation
 
-The usual first step for a BIP is to circulate a detailed proposal on the Bitcoin
-Development Mailing List and gather on-list technical feedback before requesting
-a BIP number.
+The usual first step for a BIP is to circulate a detailed proposal on the Bitcoin Development Mailing List and gather on-list technical feedback before requesting a BIP number.
 
-In December 2025, multiple attempts were made to post The Cat to the mailing list.
-These messages were **blocked by moderation** and did not appear on the list,
-preventing any on-list discussion of the proposal despite it being a fully worked draft.
+In December 2025, multiple attempts were made to post The Cat to the mailing list. These initial messages were held in moderation and did not appear on the public archive, despite being a fully worked technical draft.
 
-In the author’s view, this sets a troubling precedent. Moderation should primarily
-filter spam and clearly low-effort or off-topic content, not decide which substantive
-technical proposals the wider community is allowed to see. When controversial ideas
-are stopped at the moderation layer, it effectively puts a thumb on the scale of
-Bitcoin’s governance by suppressing discussion rather than allowing the community
-to evaluate and critique the ideas on their technical merits.
+The proposal was later allowed through and discussion is now taking place on the list. After it was posted, Greg Maxwell responded. I replied on **December 11, 2025**, but as of this writing that reply has still not appeared on the public archive, while additional replies in the same thread (including multiple follow-ups by Greg to other participants responding to points I raised) have been approved and posted. The practical effect is that the on-list discussion has, at times, felt materially one-sided.
 
-Because of this, this repository is being used as the primary venue for public review
-and commentary on The Cat. Feedback, supportive or critical, is welcome here via issues,
-pull requests, or external discussion that links back to this draft.
+Regardless of venue, this repository is the canonical home for the draft specification and edits to The Cat. Feedback is welcome here via issues and pull requests, and I’m also participating in discussion on the Bitcoin-dev mailing list and on Delving Bitcoin.
+
